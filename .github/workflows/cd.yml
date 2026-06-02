@@ -15,7 +15,7 @@ jobs:
 
       # Node.js 설정
       - name: Setup Node.js
-        uses: actions/setup-node@v3g
+        uses: actions/setup-node@v3
         with:
           node-version: "20" # Vite + React 권장 Node 버전
 
