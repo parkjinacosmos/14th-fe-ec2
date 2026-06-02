@@ -19,6 +19,7 @@ jobs:
         with:
           node-version: "20" # Vite + React 권장 Node 버전
 
+
           
       # 의존성 설치 및 빌드
       - name: Install dependencies and build
